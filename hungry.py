@@ -4,3 +4,5 @@ if hungry == 'yes':
 else:
     print("do your hardwork")
     print("mncjjr")
+if 5== 10/2:
+    print("cal")
